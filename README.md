@@ -1,6 +1,6 @@
-# flutter_appsa
+# flutterBitcon
 
-A new Flutter application.
+A new Flutter application that shows BITCOIN price in EUR.
 
 ## Getting Started
 
